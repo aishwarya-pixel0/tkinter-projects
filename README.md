@@ -32,9 +32,9 @@ Here is a demo video :
 Its main purpose is to help users convert distances from miles to kilometers using a user-friendly interface.
 
 How It Works:
-The user enters a number representing miles.
-Upon clicking the "Convert" button, the application multiplies the input by 1.60934 (the conversion factor from miles to kilometers).
-The result is shown in the output field or label.
+* The user enters a number representing miles.
+* Upon clicking the "Convert" button, the application multiplies the input by 1.60934 (the conversion factor from miles to kilometers).
+* The result is shown in the output field or label.
 
 ## 4.Pomodoro Timer
 This project is a Pomodoro timer application built using Python and Tkinter. The Pomodoro Technique is a time management method that uses a timer to break work into intervals, typically 25 minutes in length, separated by short breaks. The application features a graphical user interface (GUI) that allows users to start, pause, and reset the timer, visually track work and break sessions, and stay focused and productive.
@@ -49,6 +49,8 @@ How it Works ?
 Screenshots : 
 
 <img width="300" height="400" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/b142a743-f4f0-4136-91b4-dde3911678dc" />
+<img width="300" height="450" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/1394f798-87df-4640-9a5b-2a1e2c232b47" />
+
 
 ## 5.Quizzler
 This project is a desktop quiz application built using Python and the Tkinter GUI library. It presents users with a series of true/false questions, tracks their score, and provides immediate feedback on their answers.
