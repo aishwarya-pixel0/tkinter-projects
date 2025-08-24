@@ -75,7 +75,10 @@ How it Works ?
 * When the snake eats the food, it gets longer and your score goes up.
 * If the snake hits the wall or itself, the game resets and your score starts over.
 * The highest score is saved and shown at the top.
-* Play as many times as you want until you close the window.
+
+Here's a demo video : 
+
+![Snake Game](https://github.com/user-attachments/assets/e04913c9-47f4-4960-90b2-2c3bcb32cb90)
 
 
 
